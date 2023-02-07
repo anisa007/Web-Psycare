@@ -4,10 +4,11 @@ PsyCare (Psycological Care) adalah web berbasis kesehatan mental/psikis yang aka
 menyediakan jasa dokter psikiater dan psikolog yang bisa membantu para user yang ingin mendapat bimbingan secara professional. Web kami juga mengutamakan kenyamanan dan privasi user terjaga .
 
 Team 
-1. Aisyah Diah Atikah
+1. Ezza Fahman
 2. Anisa
 3. Siti Haswy
 4. Titasani Carella
+5. Shafira Fajriyanti
 
 Halaman Pada web
 1. Halaman Login pada web
